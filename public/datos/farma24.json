@@ -1,0 +1,14 @@
+[
+    { "comuna": 1, "nombre": "Farmacity", "direccion": "Bla bla "},
+    { "comuna": 3, "nombre": "Farmacity II ", "direccion": "Bla bla "},
+    { "comuna": 6, "nombre": "Farmacity III", "direccion": "Bla bla "},
+    { "comuna": 2, "nombre": "Farmacity IV", "direccion": "Bla bla "},
+    { "comuna": 7, "nombre": "Farmacity V", "direccion": "Bla bla "},
+    { "comuna": 2, "nombre": "Farma color", "direccion": "Bla bla "},
+    { "comuna": 4, "nombre": "Farma feliz", "direccion": "Bla bla "},
+    { "comuna": 4, "nombre": "Farmacia Lopez", "direccion": "Bla bla "},
+    { "comuna": 4, "nombre": "XXX", "direccion": "Bla bla "},
+    { "comuna": 1, "nombre": "PPPP", "direccion": "Bla bla "},
+    { "comuna": 5, "nombre": "Cabildo", "direccion": "Av. Cabildo 400 "}    
+
+]
